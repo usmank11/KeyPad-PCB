@@ -8,3 +8,9 @@ PCB Front
 
 PCB Back
 ![alt text](https://github.com/usmank11/KeyPad-PCB/blob/main/PCBback.png)
+
+Schematic
+![alt text](https://github.com/usmank11/KeyPad-PCB/blob/main/schematic.png)
+
+Layout
+![alt text](https://github.com/usmank11/KeyPad-PCB/blob/main/layout.png)
